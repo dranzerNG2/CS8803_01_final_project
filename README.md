@@ -1,2 +1,2 @@
-# cse8803_01_final_project
+# CS8803_01_final_project
 Robot Path Prediction
